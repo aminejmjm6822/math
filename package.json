@@ -1,0 +1,30 @@
+{
+  "name": "math-learning-platform",
+  "version": "1.0.0",
+  "description": "An online platform for learning mathematics through interactive lessons and quizzes.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "math",
+    "learning",
+    "education",
+    "online"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  }
+}
